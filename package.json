@@ -1,0 +1,16 @@
+{
+  "name": "pi-high-level",
+  "version": "0.2.0",
+  "description": "Append a display-only high-level summary box after a Pi reply you designate.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": ["pi-package", "pi-extension"],
+  "files": ["extensions", "README.md"],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "pi": {
+    "extensions": ["./extensions/index.ts"]
+  }
+}
