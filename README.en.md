@@ -4,7 +4,7 @@
 
 Attaches a high-level summary to a Pi reply you pick. The box is a session entry rendered in the UI only; it never enters model context.
 
-![High-level summary box in Pi](docs/high-level-box.jpg)
+![High-level summary box in Pi](docs/high-level-box-en.jpg)
 
 ## Why use it
 
