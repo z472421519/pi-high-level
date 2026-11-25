@@ -8,7 +8,7 @@
   "scripts": {
     "test": "node --test extensions/*.test.ts"
   },
-  "files": ["extensions", "docs", "README.md", "README.en.md"],
+  "files": ["extensions", "docs", "README.md", "README.zh.md"],
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*",
     "@earendil-works/pi-tui": "*"
